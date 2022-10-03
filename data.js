@@ -96,7 +96,7 @@ export default [
         googleMapsUrl: "https://goo.gl/maps/Jko5uWmd6nogFoCy9",
         startDate: "6 October, 2018",
         endDate: "9 October, 2018",
-        description: "is the capital and largest city of Poland. The metropolis stands on the River Vistula in east-central Poland, and its population is officially estimated at 1.86 million residents within a greater metropolitan area of 3.1 million residents,[5] which makes Warsaw the 7th most-populous city in the European Union.",
+        description: "Warsaw is the capital and largest city of Poland. The metropolis stands on the River Vistula in east-central Poland, and its population is officially estimated at 1.86 million residents within a greater metropolitan area of 3.1 million residents,[5] which makes Warsaw the 7th most-populous city in the European Union.",
         imageUrl: "https://peterweiser.com/scrimba/warsaw.jpg"
     }
 ]
